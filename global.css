@@ -1,33 +1,56 @@
 #top-nav-bar {
   background-color: #2D3E50;
-  padding: 20px;
+  padding: 15px 20px 40px 24px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;  
 }
 
 #title {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
   color: white;
   text-transform: uppercase;
   font-size: 20px;
-/*  margin: 0px;*/
-  padding-right: 900px;
+  padding-right: 1050px;
   float: left;
-}
-
-.right {
 }
 
 #home {
   color: white;
   float: left;
+  margin-top: 0px;
   margin-right: 20px;
+  margin-left: 30px;  
 }
 
 #tour {
-  color: #1F8DD6;
+  color: #6FBEF3;
   float: left;
+  padding-right: 12px;
+  padding-left:17px;
 }
 
 #sign-up {
-  color: #1F8DD6;
+  color: #6FBEF3;
   float: left;
+  padding-left:24px;
+}
+
+#top-main {
+  background-color: #1F8DD6;
+  color: white;
+  padding: 210px 375px;
+  font-family: Helvetica, sans-serif;
+  text-transform: uppercase;
+}
+
+#big-box {
+  background-color: #1F8DD6;
+  border: 3px;
+  border-color: white;
+  border-style: solid;
+  padding: 50px 20px;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  font-size: 48px;
+  font-weight: lighter;
 }
