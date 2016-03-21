@@ -37,7 +37,7 @@
 #top-main {
   background-color: #1F8DD6;
   color: white;
-  padding: 210px 375px;
+  padding: 180px 370px;
   font-family: Helvetica, sans-serif;
   text-transform: uppercase;
 }
@@ -47,10 +47,29 @@
   border: 3px;
   border-color: white;
   border-style: solid;
-  padding: 50px 20px;
+  padding: 50px;
   border-radius: 5px;
   color: white;
   text-align: center;
   font-size: 48px;
   font-weight: lighter;
+  margin-top: 5px;
+}
+
+#lower-text {
+  text-align: center;
+  font-size: 16px;
+  margin: 30px;
+  color: #D2E8F7;
+}
+
+button {
+  padding: 8px 42px;
+  border-radius: 5px;
+  background-color: white;
+  border: none;
+  color: #1F8DD6;
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-left: 235px;
 }
